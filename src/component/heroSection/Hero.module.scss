@@ -1,0 +1,93 @@
+@import "../../styles/globals";
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 80px;
+  position: relative;
+  
+
+  .textArea {
+    max-width: 600px;
+    .badge {
+      margin-bottom: 30px;
+      h1 {
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 1.2;
+        margin-bottom: 20px;
+        font-family: "Roboto";
+        span {
+          color: rgb(113, 30, 221); // رنگ خاص روی یک کلمه
+        }
+      }
+      p {
+        font-size: 18px;
+        color: #555;
+        line-height: 1.6;
+      }
+    }
+    .searchBox {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 30px;
+      input,
+      select {
+        padding: 18px 30px;
+        border: none;
+        border-radius: 30px;
+        outline: none;
+        font-size: 16px;
+        background: white;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+      input {
+        flex: 2;
+      }
+      select {
+        flex: 1;
+      }
+
+      button {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        background-color: rgb(68, 140, 223);
+        color: white;
+        border: none;
+        border-radius: 30px;
+        padding: 18px 30px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: 0.3s;
+
+        &:hover {
+          background-color: rgb(37, 82, 134);
+        }
+      }
+    }
+  }
+  .imageArea {
+    img {
+      max-width: 650px;
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+      animation: float 3s ease-in-out infinite;
+      border-radius: 50%;
+      @keyframes float {
+        0% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-20px);
+        }
+        100% {
+          transform: translateY(0px);
+        }
+      }
+    }
+  }
+}
