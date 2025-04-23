@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Course-app/static/css/main.d5ad4576.css",
+    "main.js": "/Course-app/static/js/main.173185af.js",
+    "static/js/453.ed3810f9.chunk.js": "/Course-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/1.jpg": "/Course-app/static/media/1.554004832b9c8c87d97d.jpg",
+    "static/media/logo.jpg": "/Course-app/static/media/logo.d0ca7f64fea17f730d74.jpg",
+    "index.html": "/Course-app/index.html",
+    "main.d5ad4576.css.map": "/Course-app/static/css/main.d5ad4576.css.map",
+    "main.173185af.js.map": "/Course-app/static/js/main.173185af.js.map",
+    "453.ed3810f9.chunk.js.map": "/Course-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ad4576.css",
+    "static/js/main.173185af.js"
+  ]
+}
