@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/Course-app/static/css/main.d5ad4576.css",
-    "main.js": "/Course-app/static/js/main.173185af.js",
+    "main.css": "/Course-app/static/css/main.351d4bc1.css",
+    "main.js": "/Course-app/static/js/main.2d4d13e4.js",
     "static/js/453.ed3810f9.chunk.js": "/Course-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/web-design.jpg": "/Course-app/static/media/web-design.75f441492700aa64ca4d.jpg",
+    "static/media/ui-ux.png": "/Course-app/static/media/ui-ux.243c4c91af002a3a8bd9.png",
+    "static/media/english.jpg": "/Course-app/static/media/english.bdf146c00626ad62fcac.jpg",
+    "static/media/graphic.jpeg": "/Course-app/static/media/graphic.895c3e62a557168a229b.jpeg",
     "static/media/1.jpg": "/Course-app/static/media/1.554004832b9c8c87d97d.jpg",
+    "static/media/Italian.jpg": "/Course-app/static/media/Italian.6486188c776338ee09e5.jpg",
     "static/media/logo.jpg": "/Course-app/static/media/logo.d0ca7f64fea17f730d74.jpg",
     "index.html": "/Course-app/index.html",
-    "main.d5ad4576.css.map": "/Course-app/static/css/main.d5ad4576.css.map",
-    "main.173185af.js.map": "/Course-app/static/js/main.173185af.js.map",
+    "main.351d4bc1.css.map": "/Course-app/static/css/main.351d4bc1.css.map",
+    "main.2d4d13e4.js.map": "/Course-app/static/js/main.2d4d13e4.js.map",
     "453.ed3810f9.chunk.js.map": "/Course-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5ad4576.css",
-    "static/js/main.173185af.js"
+    "static/css/main.351d4bc1.css",
+    "static/js/main.2d4d13e4.js"
   ]
 }
